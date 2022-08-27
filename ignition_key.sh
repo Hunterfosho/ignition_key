@@ -28,6 +28,8 @@ then
 fi
 
 
+BLUE "updating Ubuntu..."
+sudo apt-get update && apt-get upgrade -yy
 
 BLUE "Updating repositories..."
 sudo apt update
@@ -270,3 +272,4 @@ sudo apt install libcompress-raw-lzma-perl
 
 BLUE "Installing dos2unix..."
 sudo apt install libcompress-raw-lzma-perl
+
