@@ -12,6 +12,6 @@ I have had the idea to write something like this for a long time, but never got 
 
 *All the code is in the [ignition_key.sh](ignition_key.sh) script.*
 
-# HunterfoSho
+# Hunterfosho
 
 Give Mr. Hammond some support over at [Patreon](https://www.patreon.com/johnhammond010)
